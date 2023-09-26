@@ -1,0 +1,2 @@
+If blue enter 700 for THRESHOLD;
+If red enter 300 for THRESHOLD;
