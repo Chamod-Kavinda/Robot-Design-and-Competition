@@ -37,11 +37,11 @@ Once the robot identifies the checkmating square, it places the rook, opens the 
 
 ### Task 1: Line Maze
 
-#### Exploration stage
+- Exploration stage
 
 The robot starts at the white starting square and must navigate through the maze, making only 90-degree turns. The exploration stage concludes when the robot reaches the white checkpoint square on the opposite side of the maze. No loops are present within the maze.
 
-#### Speeding Stage
+- Speeding Stage
 
 After exploring the maze, the robot's next task is to calculate the shortest path using the collected data and make its way back to the starting square from the checkpoint. The robot's performance in this stage will be evaluated based on the speed at which it returns to the starting square.
 
